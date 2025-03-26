@@ -19,6 +19,7 @@ Este projeto consiste no desenvolvimento de uma interface de cartão de crédito
 
 ---
 
+![image](https://github.com/user-attachments/assets/9a157d1b-e2f7-4fa9-be29-15965bbc5b69)
 
 
 ## 📜 Licença
